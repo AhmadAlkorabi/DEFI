@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DEFI/static/css/main.42ed71b8.css",
+    "main.js": "/DEFI/static/js/main.4ff750f0.js",
+    "index.html": "/DEFI/index.html",
+    "main.42ed71b8.css.map": "/DEFI/static/css/main.42ed71b8.css.map",
+    "main.4ff750f0.js.map": "/DEFI/static/js/main.4ff750f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ed71b8.css",
+    "static/js/main.4ff750f0.js"
+  ]
+}
